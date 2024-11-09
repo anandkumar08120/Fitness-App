@@ -13,7 +13,7 @@ The Fitness Exercises App is a web application that offers a comprehensive colle
 
 ## Demo
 
-https://fitness-club-07.netlify.app/
+https://fitness-app07.vercel.app/
 
 
 ## Features
